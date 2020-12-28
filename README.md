@@ -8,4 +8,4 @@ The following tutorials are included:
 
 Full documentation of each of the functions of Riroriro can be found here: https://github.com/wvanzeist/riroriro/tree/master/docs/riroriro
 
-The directory “findchirp_traces” in this repository contains generated findchirp_arrays for use with Riroriro’s snrcalculatorfuns module. In each filename, the first number is log(Mc) and the second is the mass ratio q.
+The "example_SNR_findchirp" tutorial uses pre-generated findchirp_array data which can be found at the following link: https://drive.google.com/drive/folders/12TYxYKtBL1iuFHG_ySFhS12Aqv4JHGOr In each filename, the first number is log(Mc) and the second is the mass ratio q.
