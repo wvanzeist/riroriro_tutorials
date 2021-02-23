@@ -6,7 +6,7 @@ The following tutorials are included:
 - example_SNR_findchirp, on using Riroriro to calculate the signal-to-noise ratio (SNR) of the gravitational waveform from a given binary merger
 - example_horizon, on using Riroriro to calculate horizon distances and detectability percentages for a given merger
 
-Full documentation of each of the functions of Riroriro can be found here: https://github.com/wvanzeist/riroriro/tree/master/docs/riroriro
+Full documentation of each of the functions of Riroriro can be found here: https://github.com/wvanzeist/riroriro/tree/main/docs/riroriro
 
 The "example_SNR_findchirp" tutorial uses pre-generated findchirp_array data which can be found at the following link: https://drive.google.com/drive/folders/12TYxYKtBL1iuFHG_ySFhS12Aqv4JHGOr In each filename, the first number is log(Mc) and the second is the mass ratio q.
 
