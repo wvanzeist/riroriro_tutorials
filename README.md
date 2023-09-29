@@ -8,6 +8,6 @@ The following tutorials are included:
 
 Full documentation of each of the functions of Riroriro can be found here: https://wvanzeist.github.io
 
-The "example_SNR_findchirp" tutorial uses pre-generated findchirp_array data which can be found at the following link: https://drive.google.com/drive/folders/12TYxYKtBL1iuFHG_ySFhS12Aqv4JHGOr In each filename, the first number is log(Mc) and the second is the mass ratio q.
+The "example_SNR_findchirp" tutorial uses pre-generated findchirp_array data which can be found at the following link: https://www.dropbox.com/sh/lt8109c0c2eb10c/AADBnYXMGmWOEqCK-XWFZuJLa In each filename, the first number is log(Mc) and the second is the mass ratio q.
 
 The files “example_1.4_0.8” and “example_1.4_0.8_withpol” are example Riroriro output and the “noise_spectra” files are LIGO/Virgo detector noise spectra (from https://dcc.ligo.org/LIGO-T1500293/public); these are included in this repository for use with the tutorials and Riroriro’s unit tests.
